@@ -2,7 +2,7 @@ INSTRUCTIONS
 
 Please clone the repo at : https://github.com/anandls/chatbot.proj
 
-* There are two folders include in the project i.e client and server
+* There are two folders included in the project i.e client and server
 * The project uses React for the client and Node for the server with a local MongoDB
 * Please ignore the previous repo
 
