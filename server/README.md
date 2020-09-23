@@ -1,1 +1,4 @@
-Init
+- run npm install
+- to start the <server> project please run npm run start
+- the <server> project will run on http://127.0.0.1:8082
+- the ports can be changed in the .env file as well as the ALLOW_ORIGIN for CORS
