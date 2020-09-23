@@ -6,19 +6,16 @@ Please clone the repo : https://github.com/anandls/chatbot.proj
 * The project uses React for the client side and Node for the server with a local MongoDB
 * Please ignore the previous repo
 
-To set up and run the project locally:
-    
+To set up and run the project locally:    
     - change directory to the <client> folder and run npm install
     - to start the <client> project please run npm run dev
-    - project will run on http://localhost:3000
-    
+    - project will run on http://localhost:3000    
     - change directory to the <server> folder and run npm install
     - to start the <server> project please run npm run start
     - the <server> project will run on http://127.0.0.1:8082
     - the ports can be changed in the .env file as well as the ALLOW_ORIGIN for CORS
 
 Once running:
-
     - please "sign up" which will direct you to the "client area" which will show the chat UI
     - the interface accepts input such as :
         - "Hi, "Hello", "Hi there", "Good afternoon", "How are you"
